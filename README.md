@@ -1,2 +1,1 @@
-# OpenGl
-Few Interesting applications using opengl
+Brick breaking game using OpenGL 
